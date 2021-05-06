@@ -1,0 +1,119 @@
+    body {
+        font-family: 'Lobster', cursive;
+        font-family: 'Cabin', sans-serif;
+    }
+    
+    .navbar {
+        margin: 0!important;
+        padding: 0!important;
+    }
+    
+    .logo {
+        font-family: 'Lobster';
+        font-size: 30pt;
+        margin-left: 15px;
+    }
+    
+    .nav-link {
+        font-family: 'Cabin';
+        font-size: 14pt;
+        font-weight: 400;
+        color: white!important;
+    }
+    
+    .w-100 {
+        width: 100%;
+        height: 100%;
+    }
+    
+    .card {
+        border: none;
+    }
+    
+    .aviso {
+        font-family: 'Cabin';
+        font-size: 30pt;
+        font-weight: 700;
+        margin-top: 30pt;
+    }
+    
+    hr {
+        border-top: 1px solid #1d2124;
+    }
+    
+    .subtit {
+        color: black;
+        font-size: 20px;
+    }
+    
+    .envio {
+        color: #373A3C;
+    }
+    
+    .col-3 img {
+        width: 100%;
+    }
+    
+    .tooltip-inner {
+        max-width: 500px !important;
+        font-size: 12px;
+    }
+    
+    .carousel-indicators li {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        background-color: black;
+    }
+    
+    ol.carousel-indicators {
+        position: relative;
+    }
+    
+    p {
+        margin: 0 auto;
+    }
+    
+    .recetas {
+        font-size: 25pt;
+        font-weight: 700;
+        margin: 30pt 0;
+        text-align: center;
+    }
+    
+    .card-title {
+        font-weight: bold;
+    }
+    
+    .rosa {
+        background: #DC3545;
+        height: 300px;
+    }
+    
+    .centro {
+        margin: auto;
+        padding-top: 5%;
+    }
+    
+    .letra {
+        font-size: 18pt;
+    }
+    
+    .letra2 {
+        font-family: 'Lobster';
+        font-size: 20pt;
+    }
+    
+    .letra3 {
+        font-family: 'Cabin';
+        font-size: 10pt;
+        font-weight: 300;
+    }
+    
+    .final {
+        background-color: #373A3C;
+    }
+    
+    .colorrojo {
+        color: red;
+    }
